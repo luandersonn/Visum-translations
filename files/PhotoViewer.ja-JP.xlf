@@ -68,7 +68,7 @@
       </group>
     </body>
   </file>
-  <file datatype="xml" source-language="en-US" target-language="pt-BR" original="PHOTOVIEWER/STRINGS/EN-US/ERRORMESSAGES.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+  <file datatype="xml" source-language="en-US" target-language="ja-JP" original="PHOTOVIEWER/STRINGS/EN-US/ERRORMESSAGES.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
       <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft" />
     </header>
@@ -140,7 +140,7 @@
       </group>
     </body>
   </file>
-  <file datatype="xml" source-language="en-US" target-language="pt-BR" original="PHOTOVIEWER/STRINGS/EN-US/SETTINGSVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+  <file datatype="xml" source-language="en-US" target-language="ja-JP" original="PHOTOVIEWER/STRINGS/EN-US/SETTINGSVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
       <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6919.0" tool-company="Microsoft" />
     </header>
@@ -313,7 +313,7 @@
       </group>
     </body>
   </file>
-  <file datatype="xml" source-language="en-US" target-language="pt-BR" original="PHOTOVIEWER/STRINGS/EN-US/DIALOGS.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+  <file datatype="xml" source-language="en-US" target-language="ja-JP" original="PHOTOVIEWER/STRINGS/EN-US/DIALOGS.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
       <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6919.0" tool-company="Microsoft" />
     </header>
@@ -346,7 +346,7 @@
       </group>
     </body>
   </file>
-  <file datatype="xml" source-language="en-US" target-language="pt-BR" original="PHOTOVIEWER/STRINGS/EN-US/GALLERYVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+  <file datatype="xml" source-language="en-US" target-language="ja-JP" original="PHOTOVIEWER/STRINGS/EN-US/GALLERYVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
       <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6920.0" tool-company="Microsoft" />
     </header>
@@ -404,7 +404,7 @@
       </group>
     </body>
   </file>
-  <file datatype="xml" source-language="en-US" target-language="pt-BR" original="PHOTOVIEWER/STRINGS/EN-US/MEDIAVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+  <file datatype="xml" source-language="en-US" target-language="ja-JP" original="PHOTOVIEWER/STRINGS/EN-US/MEDIAVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
       <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6920.0" tool-company="Microsoft" />
     </header>
@@ -698,7 +698,7 @@
       </group>
     </body>
   </file>
-  <file datatype="xml" source-language="en-US" target-language="pt-BR" original="PHOTOVIEWER/STRINGS/EN-US/CROPIMAGEVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+  <file datatype="xml" source-language="en-US" target-language="ja-JP" original="PHOTOVIEWER/STRINGS/EN-US/CROPIMAGEVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
       <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6920.0" tool-company="Microsoft" />
     </header>
@@ -757,7 +757,7 @@
       </group>
     </body>
   </file>
-  <file datatype="xml" source-language="en-US" target-language="pt-BR" original="PHOTOVIEWER/STRINGS/EN-US/IMAGEEDITORVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+  <file datatype="xml" source-language="en-US" target-language="ja-JP" original="PHOTOVIEWER/STRINGS/EN-US/IMAGEEDITORVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
       <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6920.0" tool-company="Microsoft" />
     </header>
@@ -830,7 +830,7 @@
       </group>
     </body>
   </file>
-  <file datatype="xml" source-language="en-US" target-language="pt-BR" original="PHOTOVIEWER/STRINGS/EN-US/RESIZEIMAGEVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+  <file datatype="xml" source-language="en-US" target-language="ja-JP" original="PHOTOVIEWER/STRINGS/EN-US/RESIZEIMAGEVIEWPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
       <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6920.0" tool-company="Microsoft" />
     </header>
@@ -879,7 +879,7 @@
       </group>
     </body>
   </file>
-  <file datatype="xml" source-language="en-US" target-language="pt-BR" original="PHOTOVIEWER/STRINGS/EN-US/FILEDETAILSPANE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+  <file datatype="xml" source-language="en-US" target-language="ja-JP" original="PHOTOVIEWER/STRINGS/EN-US/FILEDETAILSPANE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
       <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6920.0" tool-company="Microsoft" />
     </header>
@@ -1012,7 +1012,7 @@
       </group>
     </body>
   </file>
-  <file datatype="xml" source-language="en-US" target-language="pt-BR" original="PHOTOVIEWER/STRINGS/EN-US/FILETYPES.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+  <file datatype="xml" source-language="en-US" target-language="ja-JP" original="PHOTOVIEWER/STRINGS/EN-US/FILETYPES.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
       <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6920.0" tool-company="Microsoft" />
     </header>
